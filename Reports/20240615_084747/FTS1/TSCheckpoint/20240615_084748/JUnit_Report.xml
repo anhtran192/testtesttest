@@ -1,0 +1,201 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuites name="TSCheckpoint" time="41.271" tests="3" failures="0" errors="0">
+   <testsuite name="TSCheckpoint" tests="3" failures="0" errors="0" time="41.271" skipped="0" timestamp="15-06-2024T08:47:51" hostname="anhtran - 192.168.102.5" id="Test Suites/FTS1/TSCheckpoint">
+      <properties>
+         <property name="deviceName" value=""/>
+         <property name="devicePlatform"/>
+         <property name="logFolder" value="/Users/anhtran/git/testtesttest/Reports/20240615_084747/FTS1/TSCheckpoint/20240615_084748"/>
+         <property name="logFiles" value="/Users/anhtran/git/testtesttest/Reports/20240615_084747/FTS1/TSCheckpoint/20240615_084748/execution0.log"/>
+         <property name="attachments" value="keyes/keyes-current_viewport 1.png, keyes/keyes-current_viewport 2.png, keyes/keyes-current_viewport 3.png, keyes/keyes-current_viewport 4.png, keyes/keyes-current_viewport 5.png, keyes/keyes-current_viewport 6.png, keyes/keyes-current_viewport 7.png, keyes/keyes-current_viewport 8.png, keyes/keyes-current_viewport9.png, keyes/keyes-current_viewport 10.png, keyes/keyes-current_viewport11.png, keyes/keyes-current_viewport12.png, keyes/keyes-current_viewport13.png, keyes/keyes-current_viewport14.png, keyes/keyes-current_viewport15.png, keyes/keyes-current_viewport16.png, keyes/keyes-current_viewport17.png, keyes/keyes-current_viewport16.png"/>
+         <property name="hostName" value="anhtran - 192.168.102.5"/>
+         <property name="os" value="Mac OS X 64bit"/>
+         <property name="katalonVersion" value="9.5.0.217"/>
+         <property name="browser" value="Chrome 125.0.0.0"/>
+         <property name="hostAddress" value="192.168.102.5"/>
+         <property name="sessionId" value="2b9825f2b48bafd0f49b786e91545084"/>
+         <property name="seleniumVersion" value="3.141.59"/>
+         <property name="proxyInformation" value="ProxyInformation { proxyOption=NO_PROXY, proxyServerType=HTTP, username=, password=********, proxyServerAddress=, proxyServerPort=0, executionList=&quot;&quot;, isApplyToDesiredCapabilities=true }"/>
+         <property name="platform" value="Mac OS X"/>
+      </properties>
+      <testcase name="Test Cases/Ftest1/TC1" time="2.651" classname="Test Cases/Ftest1/TC1" status="PASSED">
+         <system-out><![CDATA[15-06-2024T08:47:51 - [TEST_CASE][PASSED] - Test Cases/Ftest1/TC1: Test Cases/Ftest1/TC1
+
+15-06-2024T08:47:52 - [TEST_STEP][PASSED] - openBrowser(""): Browser is opened with url: ''
+
+15-06-2024T08:47:52 - [MESSAGE][INFO] - Starting 'Chrome' driver
+
+15-06-2024T08:47:52 - [MESSAGE][INFO] - Action delay is set to 0 milliseconds
+
+15-06-2024T08:47:54 - [MESSAGE][PASSED] - Browser is opened with url: ''
+
+15-06-2024T08:47:54 - [TEST_STEP][PASSED] - closeBrowser(): Browser is closed
+
+15-06-2024T08:47:54 - [MESSAGE][PASSED] - Browser is closed]]></system-out>
+         <system-err><![CDATA[]]></system-err>
+      </testcase>
+      <testcase name="Test Cases/Ftest1/TC10" time="1.15" classname="Test Cases/Ftest1/TC10" status="PASSED">
+         <system-out><![CDATA[15-06-2024T08:47:54 - [TEST_CASE][PASSED] - Test Cases/Ftest1/TC10: Test Cases/Ftest1/TC10
+
+15-06-2024T08:47:54 - [TEST_STEP][PASSED] - openBrowser(""): Browser is opened with url: ''
+
+15-06-2024T08:47:54 - [MESSAGE][INFO] - Starting 'Chrome' driver
+
+15-06-2024T08:47:54 - [MESSAGE][INFO] - Action delay is set to 0 milliseconds
+
+15-06-2024T08:47:55 - [MESSAGE][PASSED] - Browser is opened with url: ''
+
+15-06-2024T08:47:55 - [TEST_STEP][PASSED] - closeBrowser(): Browser is closed
+
+15-06-2024T08:47:55 - [MESSAGE][PASSED] - Browser is closed]]></system-out>
+         <system-err><![CDATA[]]></system-err>
+      </testcase>
+      <testcase name="Test Cases/Ftest1/checkpoint" time="37.309" classname="Test Cases/Ftest1/checkpoint" status="PASSED">
+         <system-out><![CDATA[15-06-2024T08:47:55 - [TEST_CASE][PASSED] - Test Cases/Ftest1/checkpoint: Test Cases/Ftest1/checkpoint
+
+15-06-2024T08:47:55 - [TEST_STEP][PASSED] - openBrowser(""): Browser is opened with url: ''
+
+15-06-2024T08:47:55 - [MESSAGE][INFO] - Starting 'Chrome' driver
+
+15-06-2024T08:47:55 - [MESSAGE][INFO] - Action delay is set to 0 milliseconds
+
+15-06-2024T08:47:56 - [MESSAGE][PASSED] - Browser is opened with url: ''
+
+15-06-2024T08:47:56 - [TEST_STEP][PASSED] - navigateToUrl("https://academy.katalon.com/"): Navigate to 'https://academy.katalon.com/' successfully
+
+15-06-2024T08:48:07 - [MESSAGE][PASSED] - Navigate to 'https://academy.katalon.com/' successfully
+
+15-06-2024T08:48:07 - [TEST_STEP][PASSED] - takeScreenshotAsCheckpoint("current_viewport 1"): Taking screenshot successfully
+
+15-06-2024T08:48:11 - [MESSAGE][INFO] - 0 hidden object(s)
+
+15-06-2024T08:48:11 - [MESSAGE][PASSED] - Taking screenshot successfully
+[[ATTACHMENT|keyes/keyes-current_viewport 1.png]]
+
+15-06-2024T08:48:11 - [TEST_STEP][PASSED] - takeScreenshotAsCheckpoint("current_viewport 2 "): Taking screenshot successfully
+
+15-06-2024T08:48:12 - [MESSAGE][INFO] - 0 hidden object(s)
+
+15-06-2024T08:48:12 - [MESSAGE][PASSED] - Taking screenshot successfully
+[[ATTACHMENT|keyes/keyes-current_viewport 2.png]]
+
+15-06-2024T08:48:12 - [TEST_STEP][PASSED] - takeScreenshotAsCheckpoint("current_viewport 3"): Taking screenshot successfully
+
+15-06-2024T08:48:13 - [MESSAGE][INFO] - 0 hidden object(s)
+
+15-06-2024T08:48:14 - [MESSAGE][PASSED] - Taking screenshot successfully
+[[ATTACHMENT|keyes/keyes-current_viewport 3.png]]
+
+15-06-2024T08:48:14 - [TEST_STEP][PASSED] - takeScreenshotAsCheckpoint("current_viewport 4"): Taking screenshot successfully
+
+15-06-2024T08:48:15 - [MESSAGE][INFO] - 0 hidden object(s)
+
+15-06-2024T08:48:15 - [MESSAGE][PASSED] - Taking screenshot successfully
+[[ATTACHMENT|keyes/keyes-current_viewport 4.png]]
+
+15-06-2024T08:48:15 - [TEST_STEP][PASSED] - takeScreenshotAsCheckpoint("current_viewport 5"): Taking screenshot successfully
+
+15-06-2024T08:48:16 - [MESSAGE][INFO] - 0 hidden object(s)
+
+15-06-2024T08:48:16 - [MESSAGE][PASSED] - Taking screenshot successfully
+[[ATTACHMENT|keyes/keyes-current_viewport 5.png]]
+
+15-06-2024T08:48:16 - [TEST_STEP][PASSED] - takeScreenshotAsCheckpoint("current_viewport 6"): Taking screenshot successfully
+
+15-06-2024T08:48:17 - [MESSAGE][INFO] - 0 hidden object(s)
+
+15-06-2024T08:48:17 - [MESSAGE][PASSED] - Taking screenshot successfully
+[[ATTACHMENT|keyes/keyes-current_viewport 6.png]]
+
+15-06-2024T08:48:17 - [TEST_STEP][PASSED] - takeScreenshotAsCheckpoint("current_viewport 7"): Taking screenshot successfully
+
+15-06-2024T08:48:18 - [MESSAGE][INFO] - 0 hidden object(s)
+
+15-06-2024T08:48:19 - [MESSAGE][PASSED] - Taking screenshot successfully
+[[ATTACHMENT|keyes/keyes-current_viewport 7.png]]
+
+15-06-2024T08:48:19 - [TEST_STEP][PASSED] - takeScreenshotAsCheckpoint("current_viewport 8 "): Taking screenshot successfully
+
+15-06-2024T08:48:19 - [MESSAGE][INFO] - 0 hidden object(s)
+
+15-06-2024T08:48:20 - [MESSAGE][PASSED] - Taking screenshot successfully
+[[ATTACHMENT|keyes/keyes-current_viewport 8.png]]
+
+15-06-2024T08:48:20 - [TEST_STEP][PASSED] - takeScreenshotAsCheckpoint("current_viewport9"): Taking screenshot successfully
+
+15-06-2024T08:48:21 - [MESSAGE][INFO] - 0 hidden object(s)
+
+15-06-2024T08:48:21 - [MESSAGE][PASSED] - Taking screenshot successfully
+[[ATTACHMENT|keyes/keyes-current_viewport9.png]]
+
+15-06-2024T08:48:21 - [TEST_STEP][PASSED] - takeScreenshotAsCheckpoint("current_viewport 10"): Taking screenshot successfully
+
+15-06-2024T08:48:24 - [MESSAGE][INFO] - 0 hidden object(s)
+
+15-06-2024T08:48:24 - [MESSAGE][PASSED] - Taking screenshot successfully
+[[ATTACHMENT|keyes/keyes-current_viewport 10.png]]
+
+15-06-2024T08:48:24 - [TEST_STEP][PASSED] - takeScreenshotAsCheckpoint("current_viewport11"): Taking screenshot successfully
+
+15-06-2024T08:48:25 - [MESSAGE][INFO] - 0 hidden object(s)
+
+15-06-2024T08:48:25 - [MESSAGE][PASSED] - Taking screenshot successfully
+[[ATTACHMENT|keyes/keyes-current_viewport11.png]]
+
+15-06-2024T08:48:25 - [TEST_STEP][PASSED] - takeScreenshotAsCheckpoint("current_viewport12"): Taking screenshot successfully
+
+15-06-2024T08:48:26 - [MESSAGE][INFO] - 0 hidden object(s)
+
+15-06-2024T08:48:26 - [MESSAGE][PASSED] - Taking screenshot successfully
+[[ATTACHMENT|keyes/keyes-current_viewport12.png]]
+
+15-06-2024T08:48:26 - [TEST_STEP][PASSED] - takeScreenshotAsCheckpoint("current_viewport13"): Taking screenshot successfully
+
+15-06-2024T08:48:27 - [MESSAGE][INFO] - 0 hidden object(s)
+
+15-06-2024T08:48:27 - [MESSAGE][PASSED] - Taking screenshot successfully
+[[ATTACHMENT|keyes/keyes-current_viewport13.png]]
+
+15-06-2024T08:48:27 - [TEST_STEP][PASSED] - takeScreenshotAsCheckpoint("current_viewport14"): Taking screenshot successfully
+
+15-06-2024T08:48:28 - [MESSAGE][INFO] - 0 hidden object(s)
+
+15-06-2024T08:48:28 - [MESSAGE][PASSED] - Taking screenshot successfully
+[[ATTACHMENT|keyes/keyes-current_viewport14.png]]
+
+15-06-2024T08:48:28 - [TEST_STEP][PASSED] - takeScreenshotAsCheckpoint("current_viewport15"): Taking screenshot successfully
+
+15-06-2024T08:48:29 - [MESSAGE][INFO] - 0 hidden object(s)
+
+15-06-2024T08:48:29 - [MESSAGE][PASSED] - Taking screenshot successfully
+[[ATTACHMENT|keyes/keyes-current_viewport15.png]]
+
+15-06-2024T08:48:29 - [TEST_STEP][PASSED] - takeScreenshotAsCheckpoint("current_viewport16"): Taking screenshot successfully
+
+15-06-2024T08:48:30 - [MESSAGE][INFO] - 0 hidden object(s)
+
+15-06-2024T08:48:30 - [MESSAGE][PASSED] - Taking screenshot successfully
+[[ATTACHMENT|keyes/keyes-current_viewport16.png]]
+
+15-06-2024T08:48:30 - [TEST_STEP][PASSED] - takeScreenshotAsCheckpoint("current_viewport17"): Taking screenshot successfully
+
+15-06-2024T08:48:31 - [MESSAGE][INFO] - 0 hidden object(s)
+
+15-06-2024T08:48:31 - [MESSAGE][PASSED] - Taking screenshot successfully
+[[ATTACHMENT|keyes/keyes-current_viewport17.png]]
+
+15-06-2024T08:48:31 - [TEST_STEP][PASSED] - takeScreenshotAsCheckpoint("current_viewport16"): Taking screenshot successfully
+
+15-06-2024T08:48:32 - [MESSAGE][INFO] - 0 hidden object(s)
+
+15-06-2024T08:48:32 - [MESSAGE][PASSED] - Taking screenshot successfully
+[[ATTACHMENT|keyes/keyes-current_viewport16.png]]
+
+15-06-2024T08:48:32 - [TEST_STEP][PASSED] - closeBrowser(): Browser is closed
+
+15-06-2024T08:48:33 - [MESSAGE][PASSED] - Browser is closed]]></system-out>
+         <system-err><![CDATA[]]></system-err>
+      </testcase>
+      <system-out><![CDATA[15-06-2024T08:47:51 - [TEST_SUITE][PASSED] - TSCheckpoint: Test Cases/Ftest1/checkpoint]]></system-out>
+      <system-err><![CDATA[]]></system-err>
+   </testsuite>
+</testsuites>
