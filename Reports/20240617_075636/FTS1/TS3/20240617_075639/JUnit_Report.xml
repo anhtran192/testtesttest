@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuites name="TS3" time="1.797" tests="2" failures="0" errors="0">
+   <testsuite name="TS3" tests="2" failures="0" errors="0" time="1.797" skipped="0" timestamp="17-06-2024T07:56:45" hostname="anhtran - 192.168.102.5" id="Test Suites/FTS1/TS3">
+      <properties>
+         <property name="deviceName" value=""/>
+         <property name="devicePlatform"/>
+         <property name="logFolder" value="/Users/anhtran/git/testtesttest/Reports/20240617_075636/FTS1/TS3/20240617_075639"/>
+         <property name="logFiles" value="/Users/anhtran/git/testtesttest/Reports/20240617_075636/FTS1/TS3/20240617_075639/execution0.log"/>
+         <property name="attachments" value=""/>
+         <property name="hostName" value="anhtran - 192.168.102.5"/>
+         <property name="os" value="Mac OS X 64bit"/>
+         <property name="katalonVersion" value="9.5.0.217"/>
+         <property name="browser" value="Chrome 125.0.0.0"/>
+         <property name="hostAddress" value="192.168.102.5"/>
+         <property name="sessionId" value="120cdeb5ee6101a07d7b90310247831f"/>
+         <property name="seleniumVersion" value="3.141.59"/>
+         <property name="proxyInformation" value="ProxyInformation { proxyOption=NO_PROXY, proxyServerType=HTTP, username=, password=********, proxyServerAddress=, proxyServerPort=0, executionList=&quot;&quot;, isApplyToDesiredCapabilities=true }"/>
+         <property name="platform" value="Mac OS X"/>
+      </properties>
+      <testcase name="Test Cases/Ftest1/TC12" time="1.062" classname="Test Cases/Ftest1/TC12" status="PASSED">
+         <system-out><![CDATA[17-06-2024T07:56:45 - [TEST_CASE][PASSED] - Test Cases/Ftest1/TC12: Test Cases/Ftest1/TC12
+
+17-06-2024T07:56:45 - [TEST_STEP][PASSED] - openBrowser(""): Browser is opened with url: ''
+
+17-06-2024T07:56:45 - [MESSAGE][INFO] - Starting 'Chrome' driver
+
+17-06-2024T07:56:45 - [MESSAGE][INFO] - Action delay is set to 0 milliseconds
+
+17-06-2024T07:56:46 - [MESSAGE][PASSED] - Browser is opened with url: ''
+
+17-06-2024T07:56:46 - [TEST_STEP][PASSED] - closeBrowser(): Browser is closed
+
+17-06-2024T07:56:46 - [MESSAGE][PASSED] - Browser is closed]]></system-out>
+         <system-err><![CDATA[]]></system-err>
+      </testcase>
+      <testcase name="Test Cases/Ftest1/TC13" time="0.683" classname="Test Cases/Ftest1/TC13" status="PASSED">
+         <system-out><![CDATA[17-06-2024T07:56:46 - [TEST_CASE][PASSED] - Test Cases/Ftest1/TC13: Test Cases/Ftest1/TC13
+
+17-06-2024T07:56:46 - [TEST_STEP][PASSED] - openBrowser(""): Browser is opened with url: ''
+
+17-06-2024T07:56:46 - [MESSAGE][INFO] - Starting 'Chrome' driver
+
+17-06-2024T07:56:46 - [MESSAGE][INFO] - Action delay is set to 0 milliseconds
+
+17-06-2024T07:56:47 - [MESSAGE][PASSED] - Browser is opened with url: ''
+
+17-06-2024T07:56:47 - [TEST_STEP][PASSED] - closeBrowser(): Browser is closed
+
+17-06-2024T07:56:47 - [MESSAGE][PASSED] - Browser is closed]]></system-out>
+         <system-err><![CDATA[]]></system-err>
+      </testcase>
+      <system-out><![CDATA[17-06-2024T07:56:45 - [TEST_SUITE][PASSED] - TS3: Test Cases/Ftest1/TC13]]></system-out>
+      <system-err><![CDATA[]]></system-err>
+   </testsuite>
+</testsuites>

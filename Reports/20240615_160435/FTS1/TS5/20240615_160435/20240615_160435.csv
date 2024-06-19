@@ -1,0 +1,10 @@
+Suite/Test/Step Name,Browser,Description,Tag,Start time,End time,Duration,Status
+TS5,Chrome 125.0.0.0,,,15-06-2024 16:04:36,15-06-2024 16:04:39,2.649s,PASSED
+,,,,,,,
+Test Cases/Ftest1/TC10,Chrome 125.0.0.0,,,15-06-2024 16:04:36,15-06-2024 16:04:38,1.841s,PASSED
+"openBrowser("""")",Chrome 125.0.0.0,,,15-06-2024 16:04:36,15-06-2024 16:04:38,1.640s,PASSED
+closeBrowser(),Chrome 125.0.0.0,,,15-06-2024 16:04:38,15-06-2024 16:04:38,0.108s,PASSED
+,,,,,,,
+Test Cases/Ftest1/TC12,Chrome 125.0.0.0,,,15-06-2024 16:04:38,15-06-2024 16:04:39,0.744s,PASSED
+"openBrowser("""")",Chrome 125.0.0.0,,,15-06-2024 16:04:38,15-06-2024 16:04:39,0.644s,PASSED
+closeBrowser(),Chrome 125.0.0.0,,,15-06-2024 16:04:39,15-06-2024 16:04:39,0.088s,PASSED

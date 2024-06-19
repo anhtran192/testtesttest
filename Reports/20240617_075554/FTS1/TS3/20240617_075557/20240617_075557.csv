@@ -1,0 +1,8 @@
+Suite/Test/Step Name,Browser,Description,Tag,Start time,End time,Duration,Status
+TS3,,,,17-06-2024 07:56:01,17-06-2024 07:56:02,0.353s,FAILED
+,,,,,,,
+Test Cases/Ftest1/TC12,,,,17-06-2024 07:56:02,17-06-2024 07:56:02,0.015s,FAILED
+"openBrowser("""")",,,,17-06-2024 07:56:02,17-06-2024 07:56:02,0.005s,FAILED
+,,,,,,,
+Test Cases/Ftest1/TC13,,,,17-06-2024 07:56:02,17-06-2024 07:56:02,0.015s,FAILED
+"openBrowser("""")",,,,17-06-2024 07:56:02,17-06-2024 07:56:02,0.004s,FAILED
